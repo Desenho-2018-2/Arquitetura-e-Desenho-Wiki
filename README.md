@@ -1,7 +1,7 @@
 ## Arquitetura e Desenho
 
 <p align="center">
-<img src="./images/Logo.png" width=500px>
+<img src="./images/logo2.png" width=500px>
 </p>
 
 ### Repositório voltado para criação de documentos referente ao projeto de Desenho e Arquitetura de Software 2018/2.
